@@ -70,7 +70,4 @@ for epoch in range(1, num_epochs+1):
 Model training and testing performance
 
 [![image.png](https://i.postimg.cc/VLhJt3s1/image.png)](https://postimg.cc/MvyZ23jr)
-<<<<<<< HEAD
-=======
 
->>>>>>> b5961f5473b07ba22b72b2bf1bc21e1fb99569b0
